@@ -1,10 +1,17 @@
-Welcome to Lumache's documentation!
+Welcome to LibEpidemic's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**LibEpidemic** 
+is an open source modeling framework, 
+built in python, designed to help researchers, epidemiologists,
+ teachers, and students research and learn content related to infectious disease modeling.
+
+We provide a complete modeling engine for building compartment models of any form, 
+complete parameter configuration and reloading mechanisms to implement dynamic parameters, 
+and even meta-population models. Through this unified engine, 
+researchers can quickly and easily build their own infectious disease models, 
+focusing more on solving epidemiological problems and designing experiments rather than writing low-level code.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
