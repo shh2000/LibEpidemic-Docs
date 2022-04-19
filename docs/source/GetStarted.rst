@@ -1,7 +1,5 @@
-Usage
+GetStarted
 =====
-
-.. _installation:
 
 Installation
 ------------
@@ -12,7 +10,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Quick Start
 ----------------
 
 To retrieve a list of random ingredients,
@@ -32,3 +30,20 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Example 1 : compartments
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
+Example 2: parameters
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache

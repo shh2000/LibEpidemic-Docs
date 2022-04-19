@@ -1,9 +1,7 @@
-Usage
+MedResGuide
 =====
 
-.. _installation:
-
-Installation
+Specify Confirmed Cases
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +10,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+SPIHDR Model
 ----------------
 
 To retrieve a list of random ingredients,
@@ -31,4 +29,8 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+.. note::
+
+   Under Develop Now(Apr. 2022)
 

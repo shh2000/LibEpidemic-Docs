@@ -1,9 +1,7 @@
-Usage
+ModelingGuide
 =====
 
-.. _installation:
-
-Installation
+Node and Path
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +10,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Compartment and Transmission
 ----------------
 
 To retrieve a list of random ingredients,
@@ -32,3 +30,47 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Graph and Model
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
+Determine strctures
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+   
+Fill formula and parameter
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+   
+Execute
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+   
+Get result and visualiztion
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache

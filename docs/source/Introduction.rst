@@ -1,9 +1,7 @@
-Usage
+Introduction
 =====
 
-.. _installation:
-
-Installation
+Background
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +10,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Supported Project
 ----------------
 
 To retrieve a list of random ingredients,
@@ -31,4 +29,41 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+Researcher Usage 
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
+Epidemiologist Usage
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
+Educational Usage
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
+Relevant Websites
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
 

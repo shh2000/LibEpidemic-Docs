@@ -1,9 +1,7 @@
-Usage
+NPIGuide
 =====
 
-.. _installation:
-
-Installation
+Modeling Transmission
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +10,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+SEPIAR Model
 ----------------
 
 To retrieve a list of random ingredients,
@@ -32,3 +30,20 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Dealing with closure
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
+
+Dealing with vaccine
+------------
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumache
