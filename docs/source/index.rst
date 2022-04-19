@@ -1,6 +1,8 @@
 Welcome to LibEpidemic's documentation!
 ===================================
 
+`LibEpidemic Homepage <https://github.com/Bigscity-epidemic/Epidemic-Modeling-survey>`_ | `Docs <https://github.com/shh2000/LibEpidemic-Docs>`_ | `Paperlist <https://github.com/Bigscity-epidemic/Bigscity-epidemic-survey-paperlist>`_
+
 **LibEpidemic** 
 is an open source modeling framework, 
 built in python, designed to help researchers, epidemiologists,
