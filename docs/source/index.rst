@@ -29,8 +29,8 @@ teachers, and students research and learn content related to infectious disease 
 
    Get Started/Installation
    Get Started/Quick Start
-   Get Started/Example compartments
-   Get Started/Example parameters
+   Get Started/Basic Compartment API
+   Get Started/Basic Parameters API
 
 .. toctree::
    :maxdepth: 1
