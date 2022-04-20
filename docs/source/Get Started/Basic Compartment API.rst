@@ -13,13 +13,8 @@ to init a graph of a compartment model, you can build a compartment model struct
 
    These APIs are Mathematically Complete
 
-Vertical Divide
-------------
+* Vertical Divide
+* Horizontal Divide
+* Add Path
 
-
-Horizontal Divide
-----------------
-
-
-Add Path
-----------------
+Please see the detailed description and usage of these APIs at chapter **Determine strctures** .

@@ -36,7 +36,7 @@ teachers, and students research and learn content related to infectious disease 
    :maxdepth: 1
    :caption: Modeling Guide
 
-   Modeling Guide/Node and Path
+   Modeling Guide/Node and Edge
    Modeling Guide/Compartment and Transmission
    Modeling Guide/Graph and Model
    Modeling Guide/Determine strctures
