@@ -70,14 +70,15 @@ teachers, and students research and learn content related to infectious disease 
    :caption: Paper Survey
 
    Paper Survey/Introduct
-   
-.. toctree::
-   :maxdepth: 1
-   :caption: API REFERENCE
 
-   api/compartment
-   api/executor
-   api/fit
-   api/parameters
-   api/utils
-   api/visual
+..  
+   .. toctree::
+      :maxdepth: 1
+      :caption: API REFERENCE
+
+      api/compartment
+      api/executor
+      api/fit
+      api/parameters
+      api/utils
+      api/visual
