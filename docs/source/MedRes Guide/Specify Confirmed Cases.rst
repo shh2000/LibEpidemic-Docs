@@ -1,12 +1,8 @@
 Specify Confirmed Cases
 =====
 
-1
-------------
+.. note::
 
-To use Lumache, first install it using pip:
+   MedRes part is under develop Now(Apr. 2022)
 
-2
-----------------
 
-To retrieve a list of random ingredients,
