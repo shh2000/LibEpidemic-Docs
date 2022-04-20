@@ -1,12 +1,8 @@
 Dealing with closure
 =====
 
-1
-------------
+.. note::
+   
+    This part of the document is not yet complete
 
-To use Lumache, first install it using pip:
-
-2
-----------------
-
-To retrieve a list of random ingredients,
+You can see **NPI/NPI_sum_model.py** and **NPI/settings.json** to learn how to dealing with closure!

@@ -48,7 +48,7 @@ teachers, and students research and learn content related to infectious disease 
    :maxdepth: 1
    :caption: NPI Guide
 
-   NPI Guide/Modeling Transmission
+   NPI Guide/Modeling NPI
    NPI Guide/SEPIAR Model
    NPI Guide/Dealing with closure
    NPI Guide/Dealing with vaccine
