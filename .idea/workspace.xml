@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fc0fe31-e0ce-4bb9-8e5a-59cab919fb5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/source/Introduction/Background.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Introduction/Background.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/Introduction/Epidemiologist Usage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Introduction/Epidemiologist Usage.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/Introduction/Researcher Usage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Introduction/Researcher Usage.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/Introduction/Supported Project.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Introduction/Supported Project.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/Modeling Guide/Node and Path.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Modeling Guide/Node and Path.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LibEpidemic-Docs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LibEpidemic-Docs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/Modeling Guide/Compartment and Transmission.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Modeling Guide/Compartment and Transmission.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,10 +40,22 @@
       <option name="presentableId" value="Default" />
       <updated>1650357509044</updated>
       <workItem from="1650357511194" duration="7000" />
+      <workItem from="1650639310662" duration="3602000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

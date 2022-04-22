@@ -19,6 +19,20 @@ Compartment is modeled by class Compartment in **compartment/Compartment.py**
 
 The Compartment class has 2 properties: node and value.
 
+**Node** identifies the compartment. It is a part of the basic graph that models the compartment.
+
+**Value** is the compartment value, which represents the number of people in the comparment.
+
+The constructor of the Compartment class is as follows:
+
+.. code-block:: python
+
+    def __init__(self, node: Node, value: float):
+        self.node = node
+        self.value = value
+
+The node and value are set by the given parameters during initialization.The node cannot be changed once it is set, while the value varies when the model is executing.
+
 Transmission
 ----------------
 
