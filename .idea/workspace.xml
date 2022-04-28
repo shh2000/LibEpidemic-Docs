@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fc0fe31-e0ce-4bb9-8e5a-59cab919fb5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LibEpidemic-Docs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LibEpidemic-Docs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/Modeling Guide/Compartment and Transmission.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Modeling Guide/Compartment and Transmission.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/Modeling Guide/Node and Edge.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Modeling Guide/Node and Edge.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,7 +39,8 @@
       <option name="presentableId" value="Default" />
       <updated>1650357509044</updated>
       <workItem from="1650357511194" duration="7000" />
-      <workItem from="1650639310662" duration="3602000" />
+      <workItem from="1650639310662" duration="3751000" />
+      <workItem from="1651161795318" duration="4069000" />
     </task>
     <servers />
   </component>
@@ -57,5 +57,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

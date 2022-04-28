@@ -22,7 +22,7 @@ Node is modeled by class Node in **compartment/Node.py**
 
 The node class has 2 properties: name and next_name_list.
 
-**Name** is throughout LibEpidemic, is the unique identifier that marks a node or compartment, and cannot be dupilicated.
+**Name** is throughout LibEpidemic, is the unique identifier that marks a node or compartment, and cannot be duplicated.
 
 The **next_name_list** records the subsequent node of this node, the name of the subsequent node is the key, and the fixed value 0 is the value. 
 The value may change in the future and is used to mark some properties of the node.
@@ -37,7 +37,7 @@ The constructor of the Node class is as follows:
             self.name = name
             self.next_name_list = {}
 
-Once the **name** is set during initialization, it cannot be changed. **next_name_list** is empty when initialized.
+Once the **name** is set during initialization, it cannot be changed. The **next_name_list** is empty when initialized.
 
 The Node class has one and only one other function:
 
