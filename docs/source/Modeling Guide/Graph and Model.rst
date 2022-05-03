@@ -95,11 +95,11 @@ Model is modeled by class Model in **compartment/Model.py**
 
 The Model class has 3 properties: name, name2compartments and name2paths.
 
-**Name** is
+**Name** is the unique identifier that marks a model.
 
-**Name2compartments** is
+**Name2compartments** is a dictionary that records the compartments and their names, the key is name and the value is compartment.
 
-**Name2paths** is
+**Name2paths** is a dictionary that records the paths and their names, the key is name and the value is compartment.
 
 The constructor of the Graph class is as follows:
 
@@ -120,6 +120,11 @@ The constructor of the Graph class is as follows:
                 self.name2paths[path_name] = path
 
 
+**Name** is set by the given name.
+
+**Name2compartments** is set by the nodes of the given graph, and **name2paths** is set by the edges of the given graph.
+
+
 The model class has five other functions:
 
 .. code-block:: python
@@ -130,6 +135,9 @@ The model class has five other functions:
         self.name2compartments[name].value = value
         return ERRCODE['SUCCEED']
 
+
+When setting a compartment, if the given name is not a compartment in the model, an exception of compartment name not found will
+be returned to the caller.
 
 .. code-block:: python
 
@@ -142,6 +150,9 @@ The model class has five other functions:
         path = self.name2paths[path_name]
         return path.set_exp(exp)
 
+When setting the expression of the path, if the name of pre-node or next-node is not in the graph of the model, an exception
+of compartment name not found will be returned to the caller, and if the path does not exist in the graph of the model, an exception
+of path name not found will be returned to the caller.
 
 .. code-block:: python
 
@@ -155,6 +166,9 @@ The model class has five other functions:
         path = self.name2paths[path_name]
         return path.set_parameters(parameter_name, parameter, embedding)
 
+When setting the parameters of the path, if the name of pre-node or next-node is not in the graph of the model, an exception
+of compartment name not found will be returned to the caller, and if the path does not exist in the graph of the model, an exception
+of path name not found will be returned to the caller.
 
 .. code-block:: python
 
@@ -167,6 +181,9 @@ The model class has five other functions:
         return result
 
 
+This function is used to get the value of each compartment and return the values by a dictionary that records the names of compartments.
+
+
 .. code-block:: python
 
     def reset_parameters(self, parameter_name: str, parameter: float):
@@ -176,3 +193,7 @@ The model class has five other functions:
             if r == ERRCODE['SUCCEED']:
                 return r
         return ERRCODE['NO_SUCH_PARAMETER']
+
+
+Parameters of paths can be reset. When resetting a parameter, it must be in one path of the graph or model, or an exception of no such
+parameter will be returned to the caller.
