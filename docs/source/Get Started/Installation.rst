@@ -14,7 +14,7 @@ After obtaining the source code, you can configure the environment.
 
 Our code is based on Python version 3.9. Most APIs have been tested to run in any version environment between python3.6-3.9. 
 
-After installing Pytorch, you can install all the dependencies of LibCity with the following command by pip.
+After installing Python, you can install all the dependencies of LibEpidemic with the following command by pip.
 
 ::
     
