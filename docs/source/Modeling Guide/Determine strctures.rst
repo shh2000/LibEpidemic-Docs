@@ -51,7 +51,7 @@ add_path
 
     def add_path(graph: Graph, from_name: str, to_name: str):
 
-Add Path can add an transmission, give it formula and parameters.
+Add Path can add a transmission, give it formula and parameters.
 It is usually used in combination with the two methods above.
 
 The following image is a general view of horizontal divide:

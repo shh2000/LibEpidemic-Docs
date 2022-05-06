@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7fc0fe31-e0ce-4bb9-8e5a-59cab919fb5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/Modeling Guide/Graph and Model.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Modeling Guide/Graph and Model.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/Modeling Guide/Determine strctures.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Modeling Guide/Determine strctures.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/Modeling Guide/Fill formula and parameter.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Modeling Guide/Fill formula and parameter.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,10 @@
       <workItem from="1651249921614" duration="619000" />
       <workItem from="1651422204942" duration="1732000" />
       <workItem from="1651454362445" duration="87000" />
-      <workItem from="1651596541068" duration="1186000" />
+      <workItem from="1651596541068" duration="1522000" />
+      <workItem from="1651678147852" duration="2680000" />
+      <workItem from="1651714450119" duration="285000" />
+      <workItem from="1651853908574" duration="1355000" />
     </task>
     <servers />
   </component>
